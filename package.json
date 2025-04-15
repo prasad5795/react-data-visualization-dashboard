@@ -1,8 +1,7 @@
 {
   "name": "react-admin",
   "version": "0.1.0",
-  "homepage": "https://prasad5795.github.io/react-data-visualization-dashboard/",
-  "private": true,
+  "homepage": "https://prasad5795.github.io/react-data-visualization-dashboard",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
