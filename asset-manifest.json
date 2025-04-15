@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-data-visualization-dashboard/static/css/main.3302819d.css",
-    "main.js": "/react-data-visualization-dashboard/static/js/main.9461f19f.js",
+    "main.js": "/react-data-visualization-dashboard/static/js/main.92c300b7.js",
     "index.html": "/react-data-visualization-dashboard/index.html",
     "main.3302819d.css.map": "/react-data-visualization-dashboard/static/css/main.3302819d.css.map",
-    "main.9461f19f.js.map": "/react-data-visualization-dashboard/static/js/main.9461f19f.js.map"
+    "main.92c300b7.js.map": "/react-data-visualization-dashboard/static/js/main.92c300b7.js.map"
   },
   "entrypoints": [
     "static/css/main.3302819d.css",
-    "static/js/main.9461f19f.js"
+    "static/js/main.92c300b7.js"
   ]
 }
